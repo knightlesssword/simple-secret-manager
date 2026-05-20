@@ -64,4 +64,6 @@ The database file `secrets.db` is created in the current working directory on fi
 
 - Not a production secrets manager (no access control, no audit log, no multi-user support)
 - Not a replacement for Vault, AWS Secrets Manager, etc.
+
+## What this IS
 - A learning POC to understand the building blocks
